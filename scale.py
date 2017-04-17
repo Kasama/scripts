@@ -6,6 +6,9 @@
 # Public domain software
 
 from __future__ import division
+# import gi
+# gi.require_version('gtk', '3.0')
+# from gi.repository import gtk
 import gtk
 import os
 import wnck
