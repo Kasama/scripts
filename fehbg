@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/roberto/dotfiles/themer/theme-one/themer-wallpaper-block-wave/themer-wallpaper-block-wave-dark-2880x1800.png' 
